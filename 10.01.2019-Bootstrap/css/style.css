@@ -1,0 +1,60 @@
+.top-header{
+    background: green;
+    color:#fff;
+}
+.language .mainDrop:hover ul{
+    display: block ;
+}
+#header{
+    padding: 35px 0;
+}
+.search-category{
+    border:1px solid red;
+    padding: 5px 25px;
+    border-radius: 25px;
+}
+.search-form{
+    position: relative;
+}
+.search-form i{
+    position: absolute;
+    right: 15px;
+    top:12px;
+
+}
+.search-category input,.search-category select{
+    border:none;
+}
+.search-category input:focus,.search-category select:focus{
+    outline: none;
+    box-shadow: none;
+}
+.banner-right{
+    background: url(http://tuongnam.com.vn/vereesa/assets/images/banner-home-5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding-top: 58px;
+    padding-right: 165px;
+    padding-bottom: 59px;
+    padding-left: 30px;
+    margin-bottom: 20px;
+}
+.banner-right2{
+    background: url(http://tuongnam.com.vn/vereesa/assets/images/banner-home-6.jpg)
+}
+.slider-infor{
+    padding-bottom: 185px;
+    padding-top: 200px;
+    padding-left: 50px;
+    padding-right: 400px;
+}
+.sale-left{
+    background: url(http://tuongnam.com.vn/vereesa/assets/images/slider-thumb4.jpg) no-repeat ;
+    background-position: center center;
+    background-size: cover;
+    
+
+}
